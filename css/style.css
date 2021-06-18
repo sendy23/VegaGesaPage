@@ -1,0 +1,53 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: italic;
+    color: #D07EA7;
+}
+
+table {
+    margin: 0px auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+h3 {
+    color: #202124;
+    font-weight: 400;
+    position: relative;
+}
+
+img {
+    padding: 18px;;
+    width: 650px;
+    height: 350px;
+}
+
+hr {
+    border: 1px solid #D07EA7;
+    margin: 0 auto 16px;
+    width: 180px;
+}
+
+h2 {
+    font-weight: 400;
+}
+
+.pictures {
+    height: 150px;
+    width: auto;
+}
+
+th {
+    font-weight: bold;
+    font-style: italic;
+}
