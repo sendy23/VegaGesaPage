@@ -1,1 +1,2 @@
 # VegaGesaPage
+Vegan falusi vendegasztal.
