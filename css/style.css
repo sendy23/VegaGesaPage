@@ -11,12 +11,12 @@ h1 {
 
 table {
     margin: 0px auto;
-    border: 1px solid black;
+    border: 1px solid #D07EA7;
     border-collapse: collapse;
 }
 
 th, td {
-    border: 1px solid black;
+    border: 1px solid #D07EA7;
     border-collapse: collapse;
 }
 
@@ -50,4 +50,12 @@ h2 {
 th {
     font-weight: bold;
     font-style: italic;
+}
+
+.face {
+    margin: 40px 0 50px 0;
+}
+
+.map {
+    border: 1px solid #D07EA7;
 }
